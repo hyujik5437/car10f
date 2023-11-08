@@ -1,0 +1,8 @@
+C:\Users\Elev\source\repos\car 10f\bin\Debug\car 10f.exe.config
+C:\Users\Elev\source\repos\car 10f\bin\Debug\car 10f.exe
+C:\Users\Elev\source\repos\car 10f\bin\Debug\car 10f.pdb
+C:\Users\Elev\source\repos\car 10f\obj\Debug\car 10f.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\car 10f\obj\Debug\car 10f.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elev\source\repos\car 10f\obj\Debug\car 10f.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\car 10f\obj\Debug\car 10f.exe
+C:\Users\Elev\source\repos\car 10f\obj\Debug\car 10f.pdb
